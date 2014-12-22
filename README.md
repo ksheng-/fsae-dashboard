@@ -1,4 +1,5 @@
 fsae-dashboard
 ==============
 
-fsae 2015
+arduino snippets for the Cooper FSAE 2015 car dashboard
+
